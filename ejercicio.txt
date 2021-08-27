@@ -1,0 +1,7 @@
+
+use prueba
+sow collections
+
+db.prueba.insert('items',{nombre:Fideos, categoria:Harina, stock:20})
+db.prueba.items.insert('items',{nombre:Leche, categoria:Lacteos, stock:30})
+db.prueba.items.insert('items',{nombre:Crema, categoria:Lacteos, stock:15})
